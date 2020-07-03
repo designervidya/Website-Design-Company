@@ -6,4 +6,5 @@ I'm a professional HTML5, PHP, Shopify, Magento, Woocommerce, WordPress develope
 I am dedicated and goal-oriented.  My skills are related to the following areas:  Front-end Development: HTML, CSS, Jquery, Javascript, Bootstrap, PSD to HTML, Photoshop, Corel Draw x7  Business card design   Control panel:- cPanel/Whm, Direct Admin  Google Tools: Google Webmaster Tools, Google Analytics,  Google Website Optimization, Malware removal,
 
 Thanks for viewing my profile,
+
 Vidya
